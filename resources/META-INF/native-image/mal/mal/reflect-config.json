@@ -1,0 +1,36 @@
+[
+    {
+        "name": "java.lang.Character",
+        "queryAllPublicMethods": true,
+        "methods": [
+            {
+                "name": "isUpperCase",
+                "parameterTypes": [
+                    "char"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "java.lang.String",
+        "queryAllPublicMethods": true,
+        "methods": [
+            {
+                "name": "contains",
+                "parameterTypes": [
+                    "java.lang.CharSequence"
+                ]
+            },
+            {
+                "name": "getBytes",
+                "parameterTypes": []
+            },
+            {
+                "name": "getBytes",
+                "parameterTypes": [
+                    "java.lang.String"
+                ]
+            }
+        ]
+    }
+]

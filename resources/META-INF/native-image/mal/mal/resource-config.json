@@ -1,0 +1,16 @@
+{
+    "resources": {
+        "includes": [
+            {
+                "pattern": "\\Qcognitect/aws/endpoints.edn\\E"
+            },
+            {
+                "pattern": "\\Qcognitect/aws/s3/service.edn\\E"
+            },
+            {
+                "pattern": "\\Qcom_grzm_awyeah_http.edn\\E"
+            }
+        ]
+    },
+    "bundles": []
+}
